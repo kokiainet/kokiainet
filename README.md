@@ -1,9 +1,9 @@
-<h1 align="center">Hey, I'm koki <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+# Hey, I'm koki 👋
 
 <p align="center">
   <a href="https://github.com/leilei926524-tech/anti-distill"><img src="https://img.shields.io/badge/Building-Anti--Distill-E17055?style=flat-square&logo=github" alt="anti-distill"></a>
   <a href="https://github.com/leilei926524-tech"><img src="https://img.shields.io/github/followers/leilei926524-tech?label=Follow&style=flat-square&logo=github" alt="Followers"></a>
-  <a href="https://x.com/kokisanai"><img src="https://img.shields.io/badge/Follow-%40kokisanai-1DA1F2?style=flat-square&logo=x" alt="Twitter/X"></a>
+  <a href="https://x.com/kokisanai"><img src="https://img.shields.io/badge/Follow-%40kokisanai-1DA1F2?style=flat-square&logo=x" alt="X (Twitter)"></a>
   <img src="https://komarev.com/ghpvc/?username=leilei926524-tech&style=flat-square&color=E17055" alt="Profile views">
 </p>
 
@@ -19,25 +19,17 @@
 
 ```yaml
 name: koki
-role: Skill Builder & Growth Operator
-platform: StepFun / OpenClaw (水产市场)
+role: Skill Builder
 currently_building:
   - anti-distill    # protect your skills from being reverse-engineered
   - samantha        # AI companion inspired by the film "Her" (2013)
-  - StepClaw        # desktop AI hardware co-creation project
 interests:
   - AI skill ecosystem & creator economy
   - Emotional AI & companion design
-  - Edge computing & desktop hardware (Raspberry Pi)
   - Anti-distillation & IP protection for AI builders
 tools:
   languages: [Python, TypeScript]
-  ai_stack: [OpenClaw, Dify, Claude]
-  infra: [GitHub Actions, Feishu, WeChat Ecosystem]
-  hardware: [Raspberry Pi, Desktop Robots]
-community:
-  - 水产市场 Skill Builder 生态
-  - StepClaw 硬件共创社区 (26k+ members)
+  ai_stack: [Dify, Claude]
 ```
 
 </details>
