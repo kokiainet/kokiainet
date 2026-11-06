@@ -1,53 +1,53 @@
-# Hey, I'm koki 👋
+# Hi, I'm Koki 👋
 
-<p align="center">
-  <a href="https://github.com/leilei926524-tech/anti-distill"><img src="https://img.shields.io/badge/Building-Anti--Distill-E17055?style=flat-square&logo=github" alt="anti-distill"></a>
-  <a href="https://github.com/leilei926524-tech"><img src="https://img.shields.io/github/followers/leilei926524-tech?label=Follow&style=flat-square&logo=github" alt="Followers"></a>
-  <a href="https://x.com/kokisanai"><img src="https://img.shields.io/badge/Follow-%40kokisanai-1DA1F2?style=flat-square&logo=x" alt="X (Twitter)"></a>
-  <img src="https://komarev.com/ghpvc/?username=leilei926524-tech&style=flat-square&color=E17055" alt="Profile views">
-</p>
+English · [简体中文](https://github.com/kokiainet/kokiainet/blob/main/README.zh-CN.md)
 
-<p align="center">
-  <em>Building skills that protect what you create — and companions that actually stay.</em>
-</p>
+I build AI skills and experiments around work, creativity, and human relationships. I come from a legal background, and I care about how technology changes people's time, knowledge, and rights.
 
----
+I'm the creator of **Anti-Distill Skill** and the initiator of **Social Coding** — using code to respond to real social problems. I also share the workflows I use to write, edit videos, and turn ideas into things people can try.
 
-<details>
-<summary><b>More about me</b></summary>
-<br>
+> **No human, no AI.**
 
-```yaml
-name: koki
-role: Skill Builder
-currently_building:
-  - anti-distill    # protect your skills from being reverse-engineered
-  - samantha        # AI companion inspired by the film "Her" (2013)
-interests:
-  - AI skill ecosystem & creator economy
-  - Emotional AI & companion design
-  - Anti-distillation & IP protection for AI builders
-tools:
-  languages: [Python, TypeScript]
-  ai_stack: [Dify, Claude]
-```
-
-</details>
+🌐 [Website](https://kokiai.net) · 🐦 [X](https://x.com/kokisanai) · ✍️ [Substack](https://kokimemo.substack.com) · ▶️ [YouTube](https://www.youtube.com/@kokiainet) · [LinkedIn](https://www.linkedin.com/in/koki-x-309815217/)
 
 ---
 
-<p align="center">
-  <a href="https://x.com/kokisanai">🐦 Follow me on X → <strong>@kokisanai</strong></a>
-</p>
+## 🛡️ Start here: Anti-Distill
+
+[**anti-distill**](https://github.com/kokiainet/anti-distill) — When you're asked to turn your experience into an AI Skill, keep the judgment, hard-earned mistakes, and core know-how that should remain yours. A practical tool for a bigger conversation about workers and AI.
 
 ---
 
-<p align="center">
-  <a href="https://github.com/leilei926524-tech/anti-distill">
-    <img src="https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=social" alt="anti-distill Stars">
-  </a>
-  &nbsp;
-  <a href="https://github.com/leilei926524-tech/samantha">
-    <img src="https://img.shields.io/github/stars/leilei926524-tech/samantha?style=social" alt="samantha Stars">
-  </a>
-</p>
+## 🆕 Creator skills
+
+From my own writing and video workflow, shared as configurable skills. Available in English and Simplified Chinese.
+
+✍️ [**koki-writing-skill**](https://github.com/kokiainet/koki-writing-skill) — Turn spoken ideas into articles that still sound like you, with evidence, real images, and WeChat-ready layouts.
+
+📱 [**koki-short-video-skill**](https://github.com/kokiainet/koki-short-video-skill) — Edit vertical talking-head videos with clean speech, language-aware captions, covers, and relevant visuals. Keep the timeline editable.
+
+🎬 [**koki-long-video-skill**](https://github.com/kokiainet/koki-long-video-skill) — Build tutorials and interviews with clear structure, readable demonstrations, synchronized edits, covers, and show notes.
+
+---
+
+## 💬 Companions & interactive stories
+
+💛 [**samantha**](https://github.com/kokiainet/samantha) — An open-source AI companion inspired by *Her* (2013), exploring emotional presence and connection.
+
+📖 [**fanfic-interactive-skill**](https://github.com/kokiainet/fanfic-interactive-skill) — Turn Claude Code into an interactive fiction host: play through character relationships, branching stories, and multiple endings in natural language.
+
+---
+
+## 🧭 Personality & self-discovery
+
+🌱 [**mbti-coach**](https://github.com/kokiainet/mbti-coach) — An OpenClaw skill that uses cognitive functions as a framework for personal growth and ongoing AI coaching.
+
+🔮 [**mbti-fortune**](https://github.com/kokiainet/mbti-fortune) — A playful MBTI fortune teller: ask a question, draw a personality type, and explore an answer.
+
+---
+
+## 🌍 Social Coding
+
+Code can respond to lived experience — labor rights, women's lives, creativity, memory, and relationships. That's the kind of building I want to do.
+
+Find my projects, essays, and community work at [**kokiai.net**](https://kokiai.net). For collaborations or a conversation, reach me on [X](https://x.com/kokisanai) or [LinkedIn](https://www.linkedin.com/in/koki-x-309815217/).
