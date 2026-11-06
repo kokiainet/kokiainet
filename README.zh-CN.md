@@ -14,10 +14,6 @@
 
 ## ⭐ 代表项目
 
-🎨 [**nexu-io/open-design**](https://github.com/nexu-io/open-design) [![GitHub stars](https://img.shields.io/github/stars/nexu-io/open-design?style=flat-square&label=stars)](https://github.com/nexu-io/open-design/stargazers) — 开源 AI 设计协作工作空间，与 AI Agent 一起制作网站、原型、应用、演示文稿和动态视觉。
-
-🧩 [**nexu-io/html-anything**](https://github.com/nexu-io/html-anything) [![GitHub stars](https://img.shields.io/github/stars/nexu-io/html-anything?style=flat-square&label=stars)](https://github.com/nexu-io/html-anything/stargazers) — 把编程 Agent 的输出做成有设计感的 HTML 文章、幻灯片、卡片、原型和数据报告。
-
 🛡️ [**anti-distill｜反蒸馏 Skill**](https://github.com/kokiainet/anti-distill) [![GitHub stars](https://img.shields.io/github/stars/kokiainet/anti-distill?style=flat-square&label=stars)](https://github.com/kokiainet/anti-distill/stargazers) — 当你被要求把工作经验写成 AI Skill 时，把判断力、踩过的坑和真正的核心知识留给自己。它是一个具体的工具，也把劳动者与 AI 的关系带进公共讨论。
 
 ---
@@ -55,3 +51,13 @@
 我希望代码能回应具体的生活：劳动权利、女性处境、创作、记忆，以及人与人的关系。这是我想做的编程。
 
 更多项目、文章和社区活动在 [**kokiai.net**](https://kokiai.net)。合作或交流，可以在 [X](https://x.com/kokisanai) 或 [LinkedIn](https://www.linkedin.com/in/koki-x-309815217/) 找我。
+
+---
+
+## 🛠️ Maintainer｜我参与维护的项目
+
+我以 Maintainer 身份参与维护的 **nexu-io** 团队项目。
+
+🎨 [**nexu-io/open-design**](https://github.com/nexu-io/open-design) [![GitHub stars](https://img.shields.io/github/stars/nexu-io/open-design?style=flat-square&label=stars)](https://github.com/nexu-io/open-design/stargazers) — 开源 AI 设计协作工作空间，与 AI Agent 一起制作网站、原型、应用、演示文稿和动态视觉。
+
+🧩 [**nexu-io/html-anything**](https://github.com/nexu-io/html-anything) [![GitHub stars](https://img.shields.io/github/stars/nexu-io/html-anything?style=flat-square&label=stars)](https://github.com/nexu-io/html-anything/stargazers) — 把编程 Agent 的输出做成有设计感的 HTML 文章、幻灯片、卡片、原型和数据报告。
