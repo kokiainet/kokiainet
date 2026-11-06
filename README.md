@@ -12,11 +12,7 @@ I'm the creator of **Anti-Distill Skill** and the initiator of **Social Coding**
 
 ---
 
-## ⭐ Featured projects
-
-🎨 [**nexu-io/open-design**](https://github.com/nexu-io/open-design) [![GitHub stars](https://img.shields.io/github/stars/nexu-io/open-design?style=flat-square&label=stars)](https://github.com/nexu-io/open-design/stargazers) — An open-source AI design workspace for websites, prototypes, apps, presentations, and motion.
-
-🧩 [**nexu-io/html-anything**](https://github.com/nexu-io/html-anything) [![GitHub stars](https://img.shields.io/github/stars/nexu-io/html-anything?style=flat-square&label=stars)](https://github.com/nexu-io/html-anything/stargazers) — Turn your coding agent's output into designed HTML articles, decks, cards, prototypes, and reports.
+## ⭐ Featured project
 
 🛡️ [**anti-distill**](https://github.com/kokiainet/anti-distill) [![GitHub stars](https://img.shields.io/github/stars/kokiainet/anti-distill?style=flat-square&label=stars)](https://github.com/kokiainet/anti-distill/stargazers) — When you're asked to turn your experience into an AI Skill, keep the judgment, hard-earned mistakes, and core know-how that should remain yours. A practical tool for a bigger conversation about workers and AI.
 
@@ -55,3 +51,13 @@ From my own writing and video workflow, shared as configurable skills. Available
 Code can respond to lived experience — labor rights, women's lives, creativity, memory, and relationships. That's the kind of building I want to do.
 
 Find my projects, essays, and community work at [**kokiai.net**](https://kokiai.net). For collaborations or a conversation, reach me on [X](https://x.com/kokisanai) or [LinkedIn](https://www.linkedin.com/in/koki-x-309815217/).
+
+---
+
+## 🛠️ Maintainer
+
+Projects I help maintain with the **nexu-io** team.
+
+🎨 [**nexu-io/open-design**](https://github.com/nexu-io/open-design) [![GitHub stars](https://img.shields.io/github/stars/nexu-io/open-design?style=flat-square&label=stars)](https://github.com/nexu-io/open-design/stargazers) — An open-source AI design workspace for websites, prototypes, apps, presentations, and motion.
+
+🧩 [**nexu-io/html-anything**](https://github.com/nexu-io/html-anything) [![GitHub stars](https://img.shields.io/github/stars/nexu-io/html-anything?style=flat-square&label=stars)](https://github.com/nexu-io/html-anything/stargazers) — Turn your coding agent's output into designed HTML articles, decks, cards, prototypes, and reports.
