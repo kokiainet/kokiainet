@@ -12,9 +12,13 @@ I'm the creator of **Anti-Distill Skill** and the initiator of **Social Coding**
 
 ---
 
-## 🛡️ Start here: Anti-Distill
+## ⭐ Featured projects
 
-[**anti-distill**](https://github.com/kokiainet/anti-distill) — When you're asked to turn your experience into an AI Skill, keep the judgment, hard-earned mistakes, and core know-how that should remain yours. A practical tool for a bigger conversation about workers and AI.
+🎨 [**nexu-io/open-design**](https://github.com/nexu-io/open-design) [![GitHub stars](https://img.shields.io/github/stars/nexu-io/open-design?style=flat-square&label=stars)](https://github.com/nexu-io/open-design/stargazers) — An open-source AI design workspace for websites, prototypes, apps, presentations, and motion.
+
+🧩 [**nexu-io/html-anything**](https://github.com/nexu-io/html-anything) [![GitHub stars](https://img.shields.io/github/stars/nexu-io/html-anything?style=flat-square&label=stars)](https://github.com/nexu-io/html-anything/stargazers) — Turn your coding agent's output into designed HTML articles, decks, cards, prototypes, and reports.
+
+🛡️ [**anti-distill**](https://github.com/kokiainet/anti-distill) [![GitHub stars](https://img.shields.io/github/stars/kokiainet/anti-distill?style=flat-square&label=stars)](https://github.com/kokiainet/anti-distill/stargazers) — When you're asked to turn your experience into an AI Skill, keep the judgment, hard-earned mistakes, and core know-how that should remain yours. A practical tool for a bigger conversation about workers and AI.
 
 ---
 
